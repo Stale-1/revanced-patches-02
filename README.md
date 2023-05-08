@@ -1,13 +1,20 @@
-YouTube Supported Version<br>
-18.04.35<br>
-18.03.42<br>
-18.02.37<br>
-18.01.38<br>
-17.49.37<br>
+<b>Youtube Supported versions:</b><br>
+• 18.16.39<br>
+• 18.16.37<br>
+• 18.15.40<br>
+• 18.14.41<br>
+• 18.13.38<br>
+• 18.12.35<br>
+• 18.11.36<br>
+• 18.10.37<br>
+• 18.09.39<br>
+• 18.08.39<br>
+• 18.07.35<br>
+• 18.06.41<br>
 <br>
-Revanced Manager v0.0.53<br>
-Patch Org: Stale-1<br>
-Patch Source: revanced-patches-02<br>
+<b>Revanced Manager:</b> <b>v0.0.57<br>
+<b>Patch Org:</b> Stale-1<br>
+<b>Patch Source:</b> revanced-patches-02<br>
 <br>
-Integration Org: Stale-1<br>
-Integration Source: revanced-integrations-02<br>
+<b>Integration Org:</b> Stale-1<br>
+<b>Integration Source:</b> revanced-integrations-02<br>
