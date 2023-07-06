@@ -17,7 +17,7 @@
 <b>Patch Source:</b> revanced-patches-02<br>
 <br>
 <b>Integration Org:</b> Stale-1<br>
-<b>Integration Source:</b> 
+<b>Integration Source:</b> revanced-integrations-02<br>
 <b>
 <b>
 <b>
