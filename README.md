@@ -48,11 +48,10 @@
 • 18.23.36<br>
 • 18.24.37<br>
 <br>
-<b>Revanced Manager:</b> <b>v1.1.0<br>
+<b>Revanced Manager:</b> <b>v1.3.6<br>
 <b>Patch Org:</b> Stale-1<br>
 <b>Patch Source:</b> revanced-patches-02<br>
 <br>
 <b>Integration Org:</b> Stale-1<br>
 <b>Integration Source:</b> revanced-integrations-02<br>
-revanced-integrations-02<br>
 revanced-integrations-02<br>
